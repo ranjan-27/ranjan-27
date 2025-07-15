@@ -18,7 +18,7 @@
 ---
 
 ### 📫 Connect with me
-🔗 [LinkedIn](http://localhost:8907/HptpHy25N) | 📧 your.ranjan7223@gmail.com
+🔗 [LinkedIn](http://localhost:8907/HptpHy25N) | 📧 ranjan7223@gmail.com
 
 ---
 
