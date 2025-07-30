@@ -12,7 +12,7 @@
 ---
 
 ### 📂 Projects
-- 🌐 Portfolio Website  
+- 🌐 [Portfolio Website](https://684e6d0dffd5141ef9a465d0--peaceful-gnome-c040c0.netlify.app/)
 - ☀️ Weather App (React)  
 - 🎬 Movie Explorer (JavaScript) 
 ---
