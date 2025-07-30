@@ -18,7 +18,7 @@
 ---
 
 ### 📫 Connect with me
-🔗 [LinkedIn]([http://localhost:8907/HptpHy25N](https://www.linkedin.com/in/ranjan-gupta-0bb0a2304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | 📧 ranjan7223@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ranjan-gupta-0bb0a2304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 📧 ranjan7223@gmail.com
 
 ---
 
