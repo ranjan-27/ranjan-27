@@ -12,7 +12,6 @@
 ---
 
 ### 📂 Projects
-- 🌐 [Portfolio Website](https://684e6d0dffd5141ef9a465d0--peaceful-gnome-c040c0.netlify.app/)
 - ☀️ [Weather App (React)](https://684ac75ddd2d5940193f4ead--merry-frangipane-2d1adf.netlify.app/)
 - 🎧 [spotify clone](https://effervescent-froyo-94e4ec.netlify.app/)
 ---
