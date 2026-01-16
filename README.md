@@ -12,8 +12,8 @@
 ---
 
 ### 📂 Projects
-- ☀️ [Medora Medicine Remainder](https://medora-web-phi.vercel.app/)
-- 🎧 [SoloTrack](https://solo-track.vercel.app/)
+- 🩺 [Medora Medicine Remainder](https://medora-web-phi.vercel.app/)
+- 🧭 [SoloTrack](https://solo-track.vercel.app/)
 ---
 
 ### 📫 Connect with me
