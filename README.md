@@ -12,8 +12,8 @@
 ---
 
 ### 📂 Projects
-- ☀️ [Weather App (React)](https://684ac75ddd2d5940193f4ead--merry-frangipane-2d1adf.netlify.app/)
-- 🎧 [spotify clone](https://effervescent-froyo-94e4ec.netlify.app/)
+- ☀️ [Medora Medicine Remainder](https://medora-web-phi.vercel.app/)
+- 🎧 [SoloTrack](https://solo-track.vercel.app/)
 ---
 
 ### 📫 Connect with me
