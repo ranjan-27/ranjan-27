@@ -11,10 +11,6 @@
 
 ---
 
-### 📂 Projects
-- 🩺 [Medora Medicine Remainder](https://medora-web-phi.vercel.app/)
-- 🧭 [SoloTrack](https://solo-track.vercel.app/)
----
 
 ### 📫 Connect with me
 🔗 [LinkedIn](https://www.linkedin.com/in/ranjan-gupta-0bb0a2304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 📧 ranjan7223@gmail.com
