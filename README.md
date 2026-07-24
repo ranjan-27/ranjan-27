@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack
-⚛️ React | 🟢 Node.js | 🚂 Express | 🍃 MongoDB | 💛 JavaScript | 🎨 HTML | 🎀 CSS | 📦 Bootstrap
+⚛️ React | 🟢 Node.js | 🚂 Express | 🍃 MongoDB | 💛 JavaScript | 🎨 HTML | 🎀 CSS
 
 ---
 
